@@ -6,7 +6,7 @@
 // const paraText = document.createTextNode('Total fruits - 4');
 
 
-// //append child
+// //appendChild
 // para.appendChild(paraText);
 
 // const divs= document.getElementsByTagName('div');
