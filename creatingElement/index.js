@@ -28,9 +28,7 @@
 
 // these are the procedure
 
-// now we have to deliver the desired output . Inside the second Div, before the unordered list add a paragraph tag showing "Total fruits: 4".
-
-// 3. On this paragraph tag set an id of "fruits-total".
+// now we have to deliver the desired output . 
 
 const subHeading = document.createElement('h3');
 const subHeadingText= document.createTextNode('Buy high quality organic fruits online');
